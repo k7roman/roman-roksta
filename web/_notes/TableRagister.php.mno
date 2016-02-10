@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_CoRegister" value="name:Company;datatype:string,name:Shares;datatype:string,name:Prev;datatype:string,name:Curr;datatype:string,name:High;datatype:string,name:Low;datatype:string,name:Buy;datatype:string" />
+</info>

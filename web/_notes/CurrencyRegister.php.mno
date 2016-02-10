@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_CurrencyRegister" value="name:Currency;datatype:string,name:Buying;datatype:string,name:Selling;datatype:string,name:Available;datatype:string,name:Buy;datatype:string" />
+</info>

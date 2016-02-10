@@ -1,0 +1,104 @@
+body {
+	margin:0;
+	padding:0;
+	background-attachment:fixed;
+	background-image:
+	url(../../images/2.jpg);
+	background-repeat:no-repeat;
+	background-position:center;	
+}
+
+#Holder {
+	width:980px;
+	height:auto;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:21px;
+	margin-bottom:21px;
+}
+
+#Header {	
+	height:70px;
+	background-image:url(../../images/Rlogo-1.png);
+	background-repeat:no-repeat;
+	margin-bottom:11px;
+}
+
+#Navbar {
+	height:60px;
+	background-color:#000;	
+	
+}
+
+#Content {
+	height:auto;
+	clear:both;
+	overflow:auto;
+	
+}
+
+#PageHeading {
+	height:auto;
+	padding:11px;
+	
+}
+
+#ContentLeft {
+	width:280px;
+	float:left;
+	padding-top:11px;
+	padding-left:11px;
+
+}
+
+#ContentRight {
+	width:680px;
+	float:right;
+	
+}
+
+#Footer {
+	height:150px;;
+	background-color:#000; 
+	
+}
+
+h1 {
+	margin:0;
+	font-family:"Times New Roman", Times, serif;
+	font-weight:lighter;
+	color:#999;
+	
+}
+
+h2 {
+	margin:0;
+	font-family:"Times New Roman", Times, serif;
+	font-weight:lighter;
+	color:#CCC;
+	
+}
+
+h5 {
+	margin:0;
+	font-family:"Times New Roman", Times, serif;
+	font-weight:lighter;
+	color:#666;	
+}
+
+
+h6 {
+	margin:0;
+	font-family:"Times New Roman", Times, serif;
+	font-weight:lighter;
+	color:#666;	
+}
+
+.StyleTextField {
+	border:1px solid #666;
+	border-radius:6px;
+	width:200px;
+	height:35px;
+	font-family:"Times New Roman", Times, serif;
+	padding-left:6px;
+}
